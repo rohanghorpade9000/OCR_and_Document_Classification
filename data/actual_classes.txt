@@ -1,0 +1,8 @@
+1) Prescription
+2) Discharge Summary
+3) Cancelled Cheque
+4) Pharmacy Bill
+5) Pharmacy Bill
+6) Bank Statement
+7) Clinic payment Receipt
+8) Lab Report
